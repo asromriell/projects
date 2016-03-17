@@ -1,0 +1,7 @@
+; rename this file to emotobot.cfg
+; set path(s) to the path of your pictures
+[Input]
+input_path: %(path)s/train
+path=/Users/YourAccountName/images_emotion
+perturbed_path=/home/ubuntu/images_emotion/perturbed_images
+csv_path=/home/ubuntu/emotobot/log/

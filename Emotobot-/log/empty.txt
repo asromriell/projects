@@ -1,0 +1,1 @@
+blank file to force git to add the /log directory
