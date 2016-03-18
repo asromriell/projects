@@ -1,0 +1,49 @@
+---
+title: "NoSQL Final Project"
+subtitle: "MSAN 697 - University of San Francisco"
+author: "Alex Romriell"
+date: "December 9, 2015"
+output: 
+  html_document:
+    theme: "cerulean"
+---
+#Rolling Stones' Top 10 Musical Artists: Does Amazon agree??
+
+http://www.rollingstone.com/music/lists/100-greatest-artists-of-all-time-19691231
+
+####Artists to Choose from:#####
+
+-------------------------------------------------------------------------------------------------
+Artist             web-app search 
+                   parameter
+------------------ ------------------------------------------------------------------------------
+The Beatles        **beatles**,  http://54.218.57.9:5000/products/summaries/beatles
+
+Bob Dylan          **bob dylan**,  http://54.218.57.9:5000/products/summaries/bob%20dylan
+
+Elvis Presley      **elvis**,  http://54.218.57.9:5000/products/summaries/elvis
+
+The Rolling Stones **rolling stones**,  http://54.218.57.9:5000/products/summaries/rolling%20stones
+
+Chuck Berry        **chuck berry**,  http://54.218.57.9:5000/products/summaries/chuck%20berry
+
+Jimi Hendrix       **hendrix**,  http://54.218.57.9:5000/products/summaries/hendrix
+
+James Brown        **james brown**,  http://54.218.57.9:5000/products/summaries/james%20brown
+
+Little Richard     **little richard**,  http://54.218.57.9:5000/products/summaries/little%20richard
+
+Aretha Franklin    **aretha franklin**,  http://54.218.57.9:5000/products/summaries/aretha%20franklin
+
+Ray Charles        **ray charles**,  http://54.218.57.9:5000/products/summaries/ray%20charles
+
+-------------------------------------------------------------------------------------------------
+
+####Other available queries:####
+
+- product totals for each artist:  http://54.218.57.9:5000/artists/product_totals
+- summaries for all products:  http://554.218.57.9:5000/products/summaries
+- count of reviews for each artist:  http://54.218.57.9:5000/artists/ranking
+- count of reviews for each artist by year:  http://54.218.57.9:5000/artists/ranking/2010
+    - available years: 1998 - 2014
+
