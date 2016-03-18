@@ -4,7 +4,7 @@ import httplib
 # SERVER = 'localhost:5000'
 
 # use this server for prod, once it's on ec2
-SERVER = 'ec2-54-218-57-9.us-west-2.compute.amazonaws.com:5000'
+SERVER = '***'
 
 
 def get_product_totals_by_artist():

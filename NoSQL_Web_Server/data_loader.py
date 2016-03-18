@@ -16,10 +16,10 @@ import csv
 
 
 # DSN location of the AWS - RDS instance
-DB_DSN = "host=nosqlproject.c9j4cfpeuu2i.us-west-2.rds.amazonaws.com " \
-         "dbname=nosqlproject " \
-         "user=asromriell " \
-         "password=finalproject"
+DB_DSN = "host=*** " \
+         "dbname=*** " \
+         "user=*** " \
+         "password=***"
 
 # DB_DSN = "host='localhost' dbname='project'"
 
