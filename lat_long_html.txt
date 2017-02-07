@@ -1,0 +1,611 @@
+[33.86158551,-118.3935805, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">John Uriostegn ?</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>653 9th St. Hermosa Beach </p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.873891,-118.366254, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Sierra May Castillo</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2501 Mathews Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.873898,-118.383984, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Kathryn Ghent </h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1633 Matthews Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.87574,-118.376804, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Alex Romriell</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2001 Ruhland Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.87650983,-118.3793172, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Osborne Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1920 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.87667555,-118.3764744, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Karen Green</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2019 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.87668165,-118.3721815, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Theresa Stenquist</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2217 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.87711402,-118.3912185, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Jeff and Noel Stark</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1320 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/red_MarkerA.png"],
+[33.8771849,-118.3916911, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Chen Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1544 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.8771849,-118.3916911, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Lindsay Shukosky</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1713 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.877447,-118.374703, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Nathan Maruccio</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2100 Curtis Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.877451,-118.372593, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Christin Morgan</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2200 Curtis Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.877679,-118.368417, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Alex Spjute</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2502 Mackay Lane Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.87837781,-118.3790969, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Janet Barrows</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1928 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.87838351,-118.373189, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Altobelli Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2116 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.87854206,-118.376776, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Aarika Ghent</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2003 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/green_MarkerB.png"],
+[33.87856467,-118.363748, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Allison Kelly</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2623 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.879216,-118.405362, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Craig and Susan Paullin </h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>401 2nd St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>$25 </p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.87931524,-118.3796632, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Susan Leilua</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1908 Graham Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.88083303,-118.3721969, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Jason Stout</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2216 A Plant Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.88083303,-118.3721969, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Lisa Stout</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2216 Plant Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.881931,-118.376824, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Katie Willis</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2001 Perry Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.882704,-118.37472, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Lori Stark</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2100 Ernest Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.883654,-118.391549, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Hanamaikai Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1300 8th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/blue_MarkerC.png"],
+[33.88379937,-118.3766091, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Crane Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2013 Farrell Ave Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88448886,-118.3678617, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Allison Goss</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2404 Thomas Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88551869,-118.3866296, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">McPhie Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1530 10th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88572336,-118.4016772, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Sunny Beutler</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>853 10th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88763757,-118.4065778, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Christy Sieminski</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>652 13th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>$25 </p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88816645,-118.390743, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Paige Brunt</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1350 12th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88833157,-118.3888648, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Julie Frandsen</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1437 12th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.88845637,-118.4064526, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Trisha Kramer</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>624 14th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/orange_MarkerD.png"],
+[33.890952,-118.3926312, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">June Stewart</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>17112 Magnolia Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.89122331,-118.3842547, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Peel Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1640 18th Street Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.89122384,-118.384181, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Giles Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1644 18th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.891296,-118.3799603, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Bob Davis</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1812 Faymont Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.892402,-118.402405, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Laurie Wiluan</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1901 John St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.8929935,-118.4127455, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Fitzpatrick Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2303 Vista Drive Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.89340111,-118.4124375, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Dennis Gilkerson</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>429 23rd Pl. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.89359267,-118.4011987, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Chuck Arrasmith</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2306 Palm Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/MarkerE.png"],
+[33.89365329,-118.3913641, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Norm Chow</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>1314 23rd St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.89655888,-118.4139892, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Adrienne Russell</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>417 29th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.89726039,-118.4044496, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Hawkins Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2921 Laurel Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>9</p>'+
+              '<p><b>Amount Due: </b>$75 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.899361,-118.397597, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Toni Bell</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>3400 N. Valley Dr. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.90082324,-118.4083719, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Spaulding  Family</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>652 36th street Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.9047326,-118.4196003, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Krisen Tashjian</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2804 Highland Ave. Manhattan Beach </p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],
+[33.9047326,-118.4196003, 
+              '<div id="content">'+
+              '<div id="siteNotice">'+
+              '</div>'+
+              '<h1 id="firstHeading" class="firstHeading">Michelle Erickson</h1>'+
+              '<div id="bodyContent">'+
+              '<p><b>Address: </b>2904 Highland Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            , "https://asromriell.github.io/images/paleblue_MarkerF.png"],

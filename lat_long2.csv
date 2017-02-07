@@ -1,0 +1,612 @@
+lat,long,Name,Phone Number,Address,# of Boxes,Amount Due,Paid,color,html_address
+33.86158551,-118.3935805,John Uriostegn ?,310-291-3737,653 9th St. Hermosa Beach ,3,$25 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">John Uriostegn ?</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>653 9th St. Hermosa Beach </p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.873891,-118.366254,Sierra May Castillo,703-459-0990,2501 Mathews Redondo Beach,3,$25 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Sierra May Castillo</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2501 Mathews Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.873898,-118.383984,Kathryn Ghent ,310-427-5242,1633 Matthews Ave. Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Kathryn Ghent </h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1633 Matthews Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87574,-118.376804,Alex Romriell,512-293-1402,2001 Ruhland Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Alex Romriell</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2001 Ruhland Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87650983,-118.3793172,Osborne Family,818-618-9713,1920 Voorhees Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Osborne Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1920 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87667555,-118.3764744,Karen Green,310-868-8134,2019 Voorhees Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Karen Green</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2019 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87668165,-118.3721815,Theresa Stenquist,435-890-2498,2217 Voorhees Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Theresa Stenquist</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2217 Voorhees Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87711402,-118.3912185,Jeff and Noel Stark,310-782-5036,1320 Voorhees Ave Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/red_MarkerA.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Jeff and Noel Stark</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1320 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.8771849,-118.3916911,Chen Family,(801)4275084,1544 Voorhees Ave Manhattan Beach,2,$20 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Chen Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1544 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.8771849,-118.3916911,Lindsay Shukosky,310-800-8940,1713 Voorhees Ave Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Lindsay Shukosky</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1713 Voorhees Ave Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.877447,-118.374703,Nathan Maruccio,310-408-7405,2100 Curtis Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Nathan Maruccio</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2100 Curtis Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.877451,-118.372593,Christin Morgan,310-371-8382,2200 Curtis Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Christin Morgan</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2200 Curtis Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.877679,-118.368417,Alex Spjute,213-321-9893,2502 Mackay Lane Redondo Beach,3,$25 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Alex Spjute</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2502 Mackay Lane Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87837781,-118.3790969,Janet Barrows,310-991-7498,1928 Gates Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Janet Barrows</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1928 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87838351,-118.373189,Altobelli Family,310-370-1207,2116 Gates Ave. Redondo Beach,1,$10 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Altobelli Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2116 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87854206,-118.376776,Aarika Ghent,310-984-9800,2003 Gates Ave. Redondo Beach,2,$20 ,,https://asromriell.github.io/images/green_MarkerB.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Aarika Ghent</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2003 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87856467,-118.363748,Allison Kelly,646-512-2200,2623 Gates Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Allison Kelly</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2623 Gates Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.879216,-118.405362,Craig and Susan Paullin ,310-766-7501,401 2nd St. Manhattan Beach,6,$50 ,$25 ,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Craig and Susan Paullin </h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>401 2nd St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>$25 </p>'+
+              '</div>'+
+              '</div>'
+            "
+33.87931524,-118.3796632,Susan Leilua,310-341-6109,1908 Graham Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Susan Leilua</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1908 Graham Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88083303,-118.3721969,Jason Stout,310-487-2511,2216 A Plant Ave. Redondo Beach,6,$50 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Jason Stout</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2216 A Plant Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88083303,-118.3721969,Lisa Stout,310-371-9176,2216 Plant Ave. Redondo Beach,6,$50 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Lisa Stout</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2216 Plant Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.881931,-118.376824,Katie Willis,310 750-8792,2001 Perry Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Katie Willis</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2001 Perry Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.882704,-118.37472,Lori Stark,310-908-0011,2100 Ernest Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Lori Stark</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2100 Ernest Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.883654,-118.391549,Hanamaikai Family,310-493-5494,1300 8th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/blue_MarkerC.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Hanamaikai Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1300 8th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88379937,-118.3766091,Crane Family,310-379-8687,2013 Farrell Ave Redondo Beach,3,$25 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Crane Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2013 Farrell Ave Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88448886,-118.3678617,Allison Goss,310-892-6559,2404 Thomas Ave. Redondo Beach,3,$25 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Allison Goss</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2404 Thomas Ave. Redondo Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88551869,-118.3866296,McPhie Family,310-977-6864,1530 10th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">McPhie Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1530 10th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88572336,-118.4016772,Sunny Beutler,310-218-7232,853 10th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Sunny Beutler</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>853 10th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88763757,-118.4065778,Christy Sieminski,310-951-1695,652 13th St. Manhattan Beach,3,$25 ,$25 ,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Christy Sieminski</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>652 13th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>$25 </p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88816645,-118.390743,Paige Brunt,801-419-7233,1350 12th St. Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Paige Brunt</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1350 12th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88833157,-118.3888648,Julie Frandsen,571-481-6998,1437 12th St. Manhattan Beach,2,$20 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Julie Frandsen</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1437 12th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.88845637,-118.4064526,Trisha Kramer,951-805-4057,624 14th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/orange_MarkerD.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Trisha Kramer</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>624 14th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.890952,-118.3926312,June Stewart,310-546-1397,17112 Magnolia Ave. Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">June Stewart</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>17112 Magnolia Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89122331,-118.3842547,Peel Family,310-939-7690,1640 18th Street Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Peel Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1640 18th Street Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89122384,-118.384181,Giles Family,310-594-7410,1644 18th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Giles Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1644 18th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.891296,-118.3799603,Bob Davis,310-374-7217,1812 Faymont Ave. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Bob Davis</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1812 Faymont Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.892402,-118.402405,Laurie Wiluan,818-388-9223,1901 John St. Manhattan Beach,6,$50 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Laurie Wiluan</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1901 John St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>6</p>'+
+              '<p><b>Amount Due: </b>$50 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.8929935,-118.4127455,Fitzpatrick Family,240-515-7450,2303 Vista Drive Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Fitzpatrick Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2303 Vista Drive Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89340111,-118.4124375,Dennis Gilkerson,213-308-0196,429 23rd Pl. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Dennis Gilkerson</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>429 23rd Pl. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89359267,-118.4011987,Chuck Arrasmith,310-701-3298,2306 Palm Ave. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/MarkerE.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Chuck Arrasmith</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2306 Palm Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89365329,-118.3913641,Norm Chow,801-244-4137,1314 23rd St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Norm Chow</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>1314 23rd St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89655888,-118.4139892,Adrienne Russell,619-368-9873,417 29th St. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Adrienne Russell</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>417 29th St. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.89726039,-118.4044496,Hawkins Family,310-467-7647,2921 Laurel Ave. Manhattan Beach,9,$75 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Hawkins Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2921 Laurel Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>9</p>'+
+              '<p><b>Amount Due: </b>$75 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.899361,-118.397597,Toni Bell,310-780-4201,3400 N. Valley Dr. Manhattan Beach,1,$10 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Toni Bell</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>3400 N. Valley Dr. Manhattan Beach</p>'+
+              '<p><b>Order: </b>1</p>'+
+              '<p><b>Amount Due: </b>$10 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.90082324,-118.4083719,Spaulding  Family,208-351-9014,652 36th street Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Spaulding  Family</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>652 36th street Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.9047326,-118.4196003,Krisen Tashjian,949-375-3990,2804 Highland Ave. Manhattan Beach ,2,$20 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Krisen Tashjian</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2804 Highland Ave. Manhattan Beach </p>'+
+              '<p><b>Order: </b>2</p>'+
+              '<p><b>Amount Due: </b>$20 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
+33.9047326,-118.4196003,Michelle Erickson,310-487-6903,2904 Highland Ave. Manhattan Beach,3,$25 ,,https://asromriell.github.io/images/paleblue_MarkerF.png,"
+              '<div id=""content"">'+
+              '<div id=""siteNotice"">'+
+              '</div>'+
+              '<h1 id=""firstHeading"" class=""firstHeading"">Michelle Erickson</h1>'+
+              '<div id=""bodyContent"">'+
+              '<p><b>Address: </b>2904 Highland Ave. Manhattan Beach</p>'+
+              '<p><b>Order: </b>3</p>'+
+              '<p><b>Amount Due: </b>$25 </p>'+
+              '<p><b>Paid: </b>nan</p>'+
+              '</div>'+
+              '</div>'
+            "
