@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Romriell Florida Keys 2017</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+       #map {
+        height: 100%;
+        /*width: 100%;*/
+       }
+       html, body {
+        height: 100%;
+        margin: 0;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2 style="text-align: center;">Romriell Florida Keys 2017</h2>
+    <div id="map"></div>
+    <script>
+
+      var locations = [
+              [24.931004,-80.620878,"Diving Museum",],
+              [24.659895,-81.274331,"Bahia Honda",],
+              [25.124988,-80.405705,"John Pennekamp National Park",],
+              [24.709312,-81.105096,"Hyatt Hotel Marathon","https://asromriell.github.io/images/pink_MarkerH.png"],
+              [24.717678,-81.071627,"Electric Bike Rental","https://asromriell.github.io/images/blue_MarkerB.png"],
+              [24.718077,-81.066233,"Church","https://asromriell.github.io/images/blue_MarkerC.png"],
+              [24.562618,-81.798993,"Dry Tortugas Docking Point",],
+              [24.551158,-81.800676,"Ernest Hemmingway's Home",],
+              [24.702382,-81.155209,"7 Mile Bridge",],
+              [25.795382,-80.286917,"Miami Airport",],
+              [24.559806,-81.807617,"Mallory Square Sunset Celebration ",],
+              [24.546564,-81.797596,"Southernmost Point",]
+      ];
+
+//      console.log(locations);
+      function initMap() {
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 9,
+          center: {lat: 24.941004, lng: -80.620878}
+        });
+
+        var prev_infowindow = null;
+
+        function addInfoWindow(marker, message) {
+
+            var infowindow = new google.maps.InfoWindow({
+                content: message[2],
+                position: new google.maps.LatLng(message[0], message[1])
+            });
+
+            google.maps.event.addListener(marker, 'click', function () {
+                if(prev_infowindow != null){
+                  prev_infowindow.close();
+                }
+                infowindow.open(map, marker);
+                prev_infowindow = infowindow;
+            });
+
+        }
+
+        for (i = 0; i < locations.length; i++) {
+//          console.log(i);
+          marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][0], locations[i][1]),
+            map: map,
+            icon: locations[i][3]
+          });
+          addInfoWindow(marker, locations[i]);
+
+        }
+
+      }
+
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK7G-8ZfHMclChKQuoNKj_kStepAD-HY8&callback=initMap">
+    </script>
+  </body>
+</html>
